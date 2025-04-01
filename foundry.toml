@@ -9,7 +9,7 @@ remappings = [
 fs_permissions = [
     { access = "read", path = "./broadcast" },
     { access = "read", path = "./reports" },
-    { access = "read", path = "./images" },
+    { access = "read", path = "./Img" },
 ]
 
 
